@@ -1,0 +1,18 @@
+// theme
+
+$primary: #592689;
+$secondary: #f76707;
+$success: #198754;
+$info: #0dcaf0;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #fff;
+$dark: #333;
+
+
+// media
+$sm: 640px; // => @media (min-width: 640px) { ... }
+$md: 768px; // => @media (min-width: 768px) { ... }
+$lg: 1024px; // => @media (min-width: 1024px) { ... }
+$xl: 1280px; // => @media (min-width: 1280px) { ... }
+$xxl: 1536px; // => @media (min-width: 1536px) { ... }

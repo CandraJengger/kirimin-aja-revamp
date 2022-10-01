@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "img":"https://kiriminaja.com/assets/team/budi_isman.jpg",
+      "name": "Budi Isman",
+      "position":"President Commisioner"
+    },
+    {
+      "img":"https://kiriminaja.com/assets/team/fariz_gtj.jpg",
+      "name": "Fariz GTJ",
+      "position":"Chief Executive Officer & Founder"
+    },
+    {
+      "img":"https://kiriminaja.com/assets/team/paras_nasution.jpg",
+      "name": "Paras M. Nasution",
+      "position":"Chief Operation Officer"
+    },
+    {
+      "img":"https://kiriminaja.com/assets/team/yuliana_afrizal.jpg",
+      "name": "Yulian Afrizal",
+      "position":"Chief Marketing Officer & Co-Founder"
+    },
+    {
+      "img":"https://kiriminaja.com/assets/team/muh_irfan_herawan.jpg",
+      "name": "Muhammad Irfan H",
+      "position":"Chief Technology Officer & Founder"
+    },
+    {
+      "img":"https://kiriminaja.com/assets/team/arief_ardinugroho.jpg",
+      "name": "Arief Ardinugroho",
+      "position":"Chief People Officer"
+    }
+    
+  ]
+}

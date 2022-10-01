@@ -1,0 +1,16 @@
+.vertical-spacer {
+  @media screen and (min-width: $md) {
+    margin: 0 1rem;
+    width: 2px;
+    height: 100%;
+    background: $dark;
+    opacity: 0.5;
+  }
+}
+
+.navbar-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}

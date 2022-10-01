@@ -1,0 +1,30 @@
+.full-radius {
+  border-radius: 5rem !important;
+}
+
+.main-radius {
+  border-radius: 0.5rem!important;
+}
+
+.bg-primary-light {
+  background: rgba(111, 47, 171, 0.151) !important;
+}
+
+.with-gradient {
+    padding-top: 65px !important;
+    position: relative !important;
+
+    &::before {
+      content: "";
+      width: 100%;
+      height: 800px;
+      background: radial-gradient(89.87% 80.87% at 89.02% -25.74%,#e0cef2 20%,transparent 100%,transparent 100%);
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+}
+
+.border-light-2 {
+  border-color: #eee!important;
+}

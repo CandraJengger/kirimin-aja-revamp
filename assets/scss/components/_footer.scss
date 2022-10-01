@@ -1,0 +1,70 @@
+footer {
+  * {
+    text-decoration: none !important;
+  }
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    
+    li {
+      &:not(:last-child) {
+        margin-bottom: 1rem;
+      }
+  
+      a {
+        color: $dark;
+        transition: all 150ms ease;
+  
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
+  }
+
+}
+
+
+.weare-hiring {
+  background: rgba(162,106,214,.25);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  color: #a26ad6;
+  font-size: .75rem;
+  transform: translateY(-1px);
+  margin-left: 4px;
+}
+
+.color-toggle {
+  border: 1px solid rgba(255,255,255,.05);
+  border-radius: 100px;
+  position: relative;
+
+  &::before {
+    transition: all .2s ease-in-out;
+    content: "";
+    width: calc(50% - 4px);
+    bottom: 2px;
+    top: 2px;
+    left: calc(50% + 2px);
+    position: absolute;
+    z-index: 1;
+    border-radius: 100px;
+    background: #6f2fab;
+  }
+
+  span {
+    padding: 0 0.5rem;
+    position: relative;
+    z-index: 2;
+    width: 70px;
+    justify-content: center;
+    display: inline-flex;
+    text-align: center;
+    font-size: 0.875rem;
+
+    &:last-child {
+        color: #ffffff!important;
+    }
+  }
+}

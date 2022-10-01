@@ -1,0 +1,94 @@
+{
+  "hero": [
+    {
+      "img": "https://kiriminaja.com/storage/Slider/September22/1664164028_sLIDER%20(5).png",
+      "title":  "Sayembara UMKM #CeritakanBrandmu",
+      "description": "Ceritakan brandmu dan raih mimpimu untuk dapatkan modal usaha total Rp40juta! Yuk #Samasamabisa kita bangkitkan UMKM di Indonesia bersama KiriminAja!",
+      "link": "/sayembara-umkm-ceritakanbrandmu",
+      "category": "info"
+    },
+    {
+      "img": "https://kiriminaja.com/storage/Slider/September22/1662348506_Slider%20(4).png",
+      "title":  "September Undian Ceria!",
+      "description": "Meriahkan September SahabatKA dengan undian penuh keceriaan! Perbanyak kirim-kirim paket dan raih kesempatan menang di periode #SeptemberUndianCeria",
+      "facilities": ["2 Unit Kulkas 2 Pintu", "1 Unit Smart TV 32 Inch", "10 Hadiah Hiburan"],
+      "link": "/september-undian-ceria",
+      "category": "info"
+    },
+    {
+      "img": "https://kiriminaja.com/storage/Slider/April22/1648798905_Slider2%20(3)%20(1).png",
+      "title":  "Gebyar Pesta Pora KiriminAja",
+      "description": "Cara cerdas KIRIM PAKET pakai KiriminAja banyak diskon dan dapatkan peluang bawa pulang hadiahnya. Yuk buruan daftar dan kirim paketmu sekarang!",
+      "facilities": ["Tanpa Biaya Pendaftaran", "Bebas Pilih Ekspedisi", "Banyak Hadiahnya"],
+      "link": "/pesta-pora-kiriminaja-segera-dimulai",
+      "category": "info"
+    }
+  ],
+  "expedition": [
+    {
+      "name": "sicepat",
+      "image": "https://kiriminaja.com/assets/logistics/sicepat.png"
+    },
+    {
+      "name": "jne",
+      "image": "https://kiriminaja.com/assets/logistics/jne.png"
+    },
+    {
+      "name": "jnt",
+      "image": "https://kiriminaja.com/assets/logistics/jnt.png"
+    },
+    {
+      "name": "sap",
+      "image": "https://kiriminaja.com/assets/logistics/sap.png"
+    },
+    {
+      "name": "ncs",
+      "image": "https://kiriminaja.com/assets/logistics/ncs.png"
+    },
+    {
+      "name": "idx",
+      "image": "https://kiriminaja.com/assets/logistics/idx.png"
+    },
+    {
+      "name": "gosend",
+      "image": "https://kiriminaja.com/assets/logistics/gosend.png"
+    },
+    {
+      "name": "sentral",
+      "image": "https://kiriminaja.com/assets/logistics/sentral.png"
+    },
+    {
+      "name": "anter-aja",
+      "image": "https://kiriminaja.com/assets/logistics/sentral.png"
+    }
+  ],
+  "clients": [
+    "https://kiriminaja.com/assets/atrust/client-arcelle-2.png",
+    "https://kiriminaja.com/assets/home-2/blanja24.png",
+    "https://kiriminaja.com/assets/atrust/client-bakpia.png",
+    "https://kiriminaja.com/assets/atrust/logo_dion_farma.png",
+    "https://kiriminaja.com/assets/atrust/logo_natasha.png",
+    "https://kiriminaja.com/assets/atrust/logo_paeko.png",
+    "https://kiriminaja.com/assets/atrust/client-diy.png",
+    "https://kiriminaja.com/assets/atrust/client-nimco.png",
+    "https://kiriminaja.com/assets/atrust/client-finna-1.png",
+    "https://kiriminaja.com/assets/atrust/client-sibakul.png",
+    "https://kiriminaja.com/assets/atrust/client-clandys.png",
+    "https://kiriminaja.com/assets/atrust/client-hayyana-1.png",
+    "https://kiriminaja.com/assets/atrust/efes-efes.png",
+    "https://kiriminaja.com/assets/atrust/client-yukbid-2.png",
+    "https://kiriminaja.com/assets/atrust/client-misseana.png",
+    "https://kiriminaja.com/assets/atrust/client-inolabs-1.png"
+  ],
+  "advantages": {
+    "banner": "https://kiriminaja.com/assets/banner-home-2.png",
+    "solutions": [
+      "Berbagai service expedisi sameday, kargo dan lainnya.",
+      "Penjemputan paket tanpa minimal kiriman.",
+      "Fitur dropoff atau cashless.",
+      "Kirim paket COD dengan pencairan tercepat.",
+      "Platform mudah digunakan.",
+      "Meminimalisir rasio retur."
+    ]
+  }
+}
